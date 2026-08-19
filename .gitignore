@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+dist/
+dist-ssr/
+
+# Environment & Sensitive Files
+.env
+.env.*
+*.local
+*.pem
+*.key
+
+# Backend & API folders
+api/
+
+# Exclude backend scripts, datasets, documentation, and raw scrape files
+*.py
+*.pyc
+__pycache__/
+*.md
+*.csv
+*.txt
+*.bat
+jds/
+public/jds/
+showcase/
+public/showcase/
+
+# OS Files
+.DS_Store
+Thumbs.db
