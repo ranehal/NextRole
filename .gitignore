@@ -13,17 +13,15 @@ dist-ssr/
 # Backend & API folders
 api/
 
-# Exclude backend scripts, datasets, documentation, and raw scrape files
+# Exclude backend scripts, datasets, and raw scrape files
 *.py
 *.pyc
 __pycache__/
-*.md
 *.csv
 *.txt
 *.bat
 jds/
 public/jds/
-showcase/
 public/showcase/
 
 # OS Files
